@@ -12,7 +12,7 @@ _Fecha de implementación:_ **$1^{er}$ _semestre 2020_**
 - Implementación de las operaciones convolucionales para trabajar con imagenes.
 - Entrenamiento de una red convolucional sobre el conocido dataset The Street View House Numbers (SVHN).
 
-**Certamen 1:** Reproducir los resultados del reciente paper: [COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest X-Ray Images](https://arxiv.org/abs/2003.09871).
+**Certamen 1:** Implementación del reciente paper: [COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest X-Ray Images](https://arxiv.org/abs/2003.09871).
 - Uso de redes neuronales convolucionales, aumentación de datos y técnicas utilizadas en el paper para reproducir los resultados.
 
 _**Nota:** En el certamen 1 hubo overfitting, lo que entrego resultados imprecisos de clasificación._
