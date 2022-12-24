@@ -1,4 +1,4 @@
-# Machine-Learning-For-Business
+# Introducción al Deep Learning
 
 ### Curso de Ingeniería Civil Industrial UdeC 
 
