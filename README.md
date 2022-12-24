@@ -14,7 +14,7 @@ _Fecha de implementación:_ **$1^{er}$ _semestre 2020_**
 
 **Certamen 1:** Reproducir los resultados del reciente paper: [COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest X-Ray Images](https://arxiv.org/abs/2003.09871).
 - Uso de redes neuronales convolucionales, aumentación de datos y técnicas utilizadas en el paper para reproducir los resultados.
-- 
+
 _**Nota:** En el certamen 1 hubo overfitting, lo que entrego resultados imprecisos de clasificación._
 
 **Certamen 2:** Reproducción del modelo [Generative Adversarial Nets (Goodfellow I., et al. 2014)](https://arxiv.org/abs/1406.2661) e Implementación de un sistema de pronóstico de acciones.
